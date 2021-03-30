@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kienluu612
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @lilkien.
+- 👀 I’m interested in dev.
+- 🌱 I’m currently learning react-native.
+- 💞️ I’m looking to collaborate on any partner.
+- 📫 How to reach me kienluu612@gmail.com.
 
 <!---
 kienluu612/kienluu612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
